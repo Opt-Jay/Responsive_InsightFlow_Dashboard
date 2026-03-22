@@ -15,4 +15,4 @@ InsightFlow is a modern responsive SaaS website built with HTML and CSS. It feat
 - CSS3
 
 ## Live Demo
-[View Live Site](https://justiceoppongtuah.github.io/insightflow-dashboard-ui/)
+[View Live Site](https://opt-jay.github.io/Responsive_InsightFlow_Dashboard/)
